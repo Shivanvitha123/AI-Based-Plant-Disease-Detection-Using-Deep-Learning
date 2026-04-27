@@ -1,8 +1,9 @@
-streamlit==1.45.1
-tensorflow-cpu==2.16.1
+streamlit==1.33.0
+tensorflow-cpu==2.15.0
 numpy==1.26.4
-pillow==10.3.0
-requests==2.32.3
-gtts==2.5.4
-reportlab==4.2.0
+pillow==10.2.0
+requests==2.31.0
+gtts==2.5.1
+reportlab==4.1.0
 protobuf==4.25.3
+h5py==3.10.0
