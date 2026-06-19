@@ -1,5 +1,5 @@
 # app.py
-# AgroVision AI - FINAL TOTAL WORKING CODE
+# AgroVision AI - Final Working Code
 # Includes:
 # ✅ Disease Detection
 # ✅ Top-3 Low Confidence Selection
